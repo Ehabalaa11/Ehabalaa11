@@ -1,57 +1,82 @@
-<h1 align="center">👋 أهلًا، أنا إيهاب علاء</h1>
-<h3 align="center">Frontend Developer | React • Next.js</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=180&section=header&text=Ehab%20Alaa&fontSize=40&fontColor=ffffff"/>
 
----
+### 💻 Frontend Developer  
+### React • Next.js • Modern UI
 
-## 👨‍💻 نبذة عني
-- 🚀 مطور واجهات أمامية متخصص في **React و Next.js**
-- 🎯 مهتم ببناء واجهات نظيفة، سريعة، وقابلة للتوسّع
-- 🧩 أحب كتابة كود منظم ومكونات قابلة لإعادة الاستخدام
-- 💼 متاح للعمل الحر (Freelance) أو بدوام كامل
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=500&color=38BDF8&center=true&vCenter=true&width=500&lines=Building+Clean+%26+Scalable+UIs;React+%26+Next.js+Specialist;Performance+%7C+UX+%7C+Best+Practices"/>
+
+</div>
 
 ---
 
-## 🛠️ التقنيات والمهارات
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,tailwind,redux,git,github,figma"/>
-</p>
+## 🧠 نبذة عني
+✨ مطور واجهات أمامية متخصص في **React و Next.js**  
+✨ مهتم بالأداء، تجربة المستخدم، وتنظيم الكود  
+✨ أعمل على بناء واجهات حديثة وقابلة للتوسع  
+✨ متاح للعمل **Freelance أو Full-time**
+
+---
+
+## 🛠️ الـ Tech Stack
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,tailwind,redux,git,github,vercel,figma&perline=6"/>
+
+</div>
+
+---
+
+## 🚀 ما الذي أعمل عليه؟
+- ⚡ Dashboards و Admin Panels
+- 🎨 UI Components قابلة لإعادة الاستخدام
+- 🌍 Websites محسنة للـ SEO باستخدام Next.js
+- 🧩 Clean Architecture & Best Practices
 
 ---
 
 ## 📌 مشاريع مميزة
-- 🧩 **Admin Dashboard** – React + UI Components  
-- 🌍 **Landing Pages** – Next.js + SEO Optimization  
-- ♻️ **Reusable Components System**
+🟢 **Admin Dashboard** – React + Modern UI  
+🟢 **Landing Pages** – Next.js + Performance  
+🟢 **Reusable Components System**
+
+> ⭐ معظم المشاريع معمولة Deploy على Vercel
 
 ---
 
-## 📫 تواصل معي
-<p>
-  <a href="https://linkedin.com/in/USERNAME">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="mailto:your@email.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+## 📊 GitHub Stats
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&hide_title=true&hide_border=true"/>
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&hide_border=true"/>
+
+</div>
 
 ---
 
-## 📊 إحصائيات GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&hide_title=true"/>
-</p>
+## 🤝 تواصل معي
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact"/>
-</p>
+<a href="https://linkedin.com/in/USERNAME">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:your@email.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
-⭐️ **تصفح الريبوهات بالأسفل لمشاهدة مشاريعي**
+<div align="center">
+
+### ⭐ شكراً لزيارتك — شوف الريبوهات تحت 👇
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0ea5e9&height=120&section=footer"/>
+
+</div>
