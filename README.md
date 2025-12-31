@@ -47,25 +47,14 @@
 
 ---
 
-## 📊 GitHub Stats
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&hide_title=true&hide_border=true"/>
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&hide_border=true"/>
-
-</div>
-
----
-
 ## 🤝 تواصل معي
 <div align="center">
 
-<a href="https://linkedin.com/in/USERNAME">
+<a href="https://linkedin.com/in/USERNAME](https://www.linkedin.com/in/ehab-alaa-a7a972393">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:your@email.com">
+<a href="mailto:ehabalaa598@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
