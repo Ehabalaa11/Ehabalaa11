@@ -31,12 +31,4 @@
 - LinkedIn: https://linkedin.com/in/USERNAME](https://www.linkedin.com/in/ehab-alaa-a7a972393/)
 - Email: ehabalaa598@gmail.com
 ---
-
-### 📊 إحصائيات GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact)
-
----
-
 ⭐️ *تقدر تتصفح مشاريعي وأسلوبي في الكود بالأسفل*
