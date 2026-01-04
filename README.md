@@ -50,7 +50,7 @@
 ## 🤝 تواصل معي
 <div align="center">
 
-<a href="https://linkedin.com/in/USERNAME](https://www.linkedin.com/in/ehab-alaa-a7a972393">
+<a href="https://linkedin.com/in/USERNAME](http://linkedin.com/in/ehab-alaa-a7a972393">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
