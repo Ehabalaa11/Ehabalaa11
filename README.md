@@ -69,4 +69,3 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0ea5e9&height=120&section=footer"/>
 
 </div>
-ده الجيت بتاعى كنت عايز اعمل الزراير بتاعت لينكد ان والجيميل بدوران شويه من الحواف
